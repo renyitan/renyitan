@@ -1,10 +1,9 @@
 ## Hi, I'm Renyi Tan 👋
 
-<!-- - 🔭 I’m currently working on a  -->
 - 🔭 I enjoy building products to make people's lives easier
 - 🌱 I’m currently experimenting on several machine learning projects
 - 👯 Looking to learn how to conduct computer science research
-- 🐱‍💻 Core developer of the [Nucleus](https://apps.apple.com/sg/app/nucleus-home/id1593351591) mobile app on iOS
+- 💻 Core developer of the [Nucleus](https://apps.apple.com/sg/app/nucleus-home/id1593351591) mobile app on iOS
 
 ### Connect with me:
 
